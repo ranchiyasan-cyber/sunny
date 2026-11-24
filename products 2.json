@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "ยาสระผม sunny natural อัญชันและมะกรูด เล็ก 60ml",
+    "mood": "sunny natural อัญชันและมะกรูด",
+    "type": "pump bottle",
+    "size": "60ml",
+    "price": 89,
+    "image": "images/sunny.jpg",
+    "description": "ยาสระผมสูตรอัญชันและมะกรูด ขนาดพกพา 60ml หัวปั๊มใช้งานง่าย เหมาะสำหรับพกพาไปเที่ยวหรือลองใช้ครั้งแรก"
+  },
+  {
+    "id": 2,
+    "name": "ยาสระผม sunny natural อัญชันและมะกรูด ใหญ่ 350ml",
+    "mood": "sunny natural อัญชันและมะกรูด",
+    "type": "pump bottle",
+    "size": "350ml",
+    "price": 179,
+    "image": "images/sunny.jpg",
+    "description": "ยาสระผมสูตรอัญชันและมะกรูด ขนาดใหญ่ 350ml หัวปั๊มใช้งานง่าย คุ้มค่าสำหรับใช้ประจำที่บ้าน"
+  },
+  {
+    "id": 3,
+    "name": "ยาสระผม sunny natural น้ำผึ้ง&อะโวคาโด เล็ก 60ml",
+    "mood": "sunny natural น้ำผึ้ง&อะโวคาโด",
+    "type": "pump bottle",
+    "size": "60ml",
+    "price": 89,
+    "image": "images/natural.jpg",
+    "description": "ยาสระผมสูตรน้ำผึ้งและอะโวคาโด ขนาดพกพา 60ml หัวปั๊มใช้งานง่าย เหมาะสำหรับพกพาไปเที่ยวหรือลองใช้ครั้งแรก"
+  },
+  {
+    "id": 4,
+    "name": "ยาสระผม sunny natural น้ำผึ้ง&อะโวคาโด ใหญ่ 350ml",
+    "mood": "sunny natural น้ำผึ้ง&อะโวคาโด",
+    "type": "pump bottle",
+    "size": "350ml",
+    "price": 179,
+    "image": "images/natural.jpg",
+    "description": "ยาสระผมสูตรน้ำผึ้งและอะโวคาโด ขนาดใหญ่ 350ml หัวปั๊มใช้งานง่าย คุ้มค่าสำหรับใช้ประจำที่บ้าน"
+  }
+]
